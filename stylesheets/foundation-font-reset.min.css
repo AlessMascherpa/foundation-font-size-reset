@@ -1,0 +1,16 @@
+*{font-size:88% !important;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,th,td,label,input[type="text"],input[type="password"],input[type="date"],input[type="datetime"],input[type="email"],input[type="number"],input[type="search"],input[type="tel"],input[type="time"],input[type="url"],textarea,form.custom span.custom.checkbox:before,.button,.button.medium,.nav-bar>li>a:first-child,ul.flyout li a,.nav-bar li ul li a,.tabs dd a,.tabs li a,.tabs.vertical dd a,.tabs.vertical li a,div.alert-box,ul.pagination li,table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td,table thead tr th,table tfoot tr td,.pricing-table .bullet-item,.top-bar ul li.search form input[type=search],.joyride-tip-guide p,.tooltip,.top-bar ul>li.has-dropdown.moved>.dropdown li:not(.title) a,a,b,strong,code{font-size:1em !important;}
+aside p,blockquote cite,form.custom div.custom.dropdown ul li,.button.dropdown>ul li a,.button.dropdown>ul li button,.flyout p,.orbit-wrapper .orbit-caption,.keystroke,kbd,.top-bar ul>li a:not(.button),.top-bar ul>li.search form input[type=text],.top-bar ul>li.login form input,.lt-ie9 .top-bar ul li a,.touch .nav-bar li a{font-size:.92em !important;}
+h1{font-size:3.14em !important;}
+h2,.clearing-close{font-size:2.64em !important;}
+h3{font-size:1.92em !important;}
+h4,.top-bar ul>li.has-dropdown.moved .back.title h5 a{font-size:1.64em !important;}
+h5,input[type="text"].oversize,input[type="password"].oversize,input[type="date"].oversize,input[type="datetime"].oversize,input[type="email"].oversize,input[type="number"].oversize,input[type="search"].oversize,input[type="tel"].oversize,input[type="time"].oversize,input[type="url"].oversize,textarea.oversize,.button.large,div.alert-box a.close,.top-bar>ul .name h1 a{font-size:1.21em !important;}
+.error small,small.error,.tabs dt,.tabs li.section-title,.label,.tooltip,.pricing-table .description,.top-bar ul>li.search form input[type=text]+.button,.top-bar ul>li.login form input[type=password]+.button{font-size:.85em !important;}
+.button.small,ul.breadcrumbs li a,ul.breadcrumbs li span,.top-bar ul>li.has-dropdown.moved>.dropdown li label{font-size:.78em !important;}
+.button.tiny,.tap-to-close,.top-bar ul>li.has-dropdown .dropdown li label{font-size:.71em !important;}
+.reveal-modal .close-reveal-modal:not(.button){font-size:1.57em !important;}
+ul.vcard li.fn,.tabs.mobile dd a,.tabs.mobile li a{font-size:1.05em !important;}
+.pricing-table .title,.top-bar ul>li.search form input[type=search]{font-size:1.14em !important;}
+.pricing-table .price,.joyride-close-tip{font-size:1.42em !important;}
+.clearing-close{font-size:2.14em !important;}
