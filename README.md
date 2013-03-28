@@ -9,4 +9,4 @@ Foundation (http://foundation.zurb.com) has some accessibility issues with text 
 
 To test the project just copy its content to a downloaded Zurb Foundation project: http://foundation.zurb.com/download.php and open test.html in a browser. You can compare to the original css by opening the Foundation project index.html.
 
-It seems by reading https://github.com/zurb/foundation/issues/1222#issuecomment-11064001 that Zurb Foundation maintainers will take this issues in consideration for the next version (the 4th). In the meantime... enjoy.
+**NOTE:** This reset is for Foundation 3, Foundation 4 does not have this accesibility problem.
