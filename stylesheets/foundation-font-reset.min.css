@@ -1,5 +1,5 @@
 *{font-size:88% !important;}
-.ie7 *,ie8 *{font-size:98,5% !important;}
+.ie7 *,.ie8 *{font-size:98,5% !important;}
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,i,em,pre,form,p,blockquote,th,td,label,input[type="text"],input[type="password"],input[type="date"],input[type="datetime"],input[type="email"],input[type="number"],input[type="search"],input[type="tel"],input[type="time"],input[type="url"],textarea,form.custom span.custom.checkbox:before,.button,.button.medium,.nav-bar>li>a:first-child,ul.flyout li a,.nav-bar li ul li a,.tabs dd a,.tabs li a,.tabs.vertical dd a,.tabs.vertical li a,div.alert-box,ul.pagination li,table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td,table thead tr th,table tfoot tr td,.pricing-table .bullet-item,.top-bar ul li.search form input[type=search],.joyride-tip-guide p,.tooltip,.top-bar ul>li.has-dropdown.moved>.dropdown li:not(.title) a,a,b,strong,code{font-size:1em !important;}
 aside p,blockquote cite,form.custom div.custom.dropdown ul li,.button.dropdown>ul li a,.button.dropdown>ul li button,.flyout p,.orbit-wrapper .orbit-caption,.keystroke,kbd,.top-bar ul>li a:not(.button),.top-bar ul>li.search form input[type=text],.top-bar ul>li.login form input,.lt-ie9 .top-bar ul li a,.touch .nav-bar li a{font-size:.92em !important;}
 h1{font-size:3.14em !important;}
